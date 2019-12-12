@@ -1,4 +1,3 @@
-
 package com.scp.java.oop;
 
 public abstract class StudentService {
